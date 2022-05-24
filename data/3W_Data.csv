@@ -1,4 +1,4 @@
-ID;Organisation;Sector;Subsector;Service;Province;Municipality;Barangay;Status;Beneficiaries;Beneficiary_type
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
 1;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Campamento;Finished;35;Households
 2;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Pahilahan ;Finished;57;Households
 3;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Puting Cacao;Finished;37;Households
