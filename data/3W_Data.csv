@@ -1,0 +1,42 @@
+ID;Organisation;Sector;Subsector;Service;Province_CODE;Municipality_CODE;Barangay;Status;Beneficiaries;Beneficiary_type
+1;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Campamento;Finished;35;Households
+2;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Pahilahan ;Finished;57;Households
+3;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175210000;Puting Cacao;Finished;37;Households
+6;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175205000;Nag-iba2;Finished;89;Households
+9;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;CGI Sheets (10 pcs/HH);PH175200000;PH175205000;Nag-iba2;Finished;89;Households
+4;Chevron Holdings;Shelter;Shelter Repair Assistance;Conditional Cash Grant (Php 5,000/HH);PH175200000;PH175205000;Nag-iba2;Finished;62;Households
+5;Chevron Holdings;Shelter;Shelter Repair Assistance;Conditional Cash Grant (Php 5,000/HH);PH175200000;PH175210000;Campamento;Finished;38;Households
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Candawid;Finished;275;Pupils
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Pangdan;Finished;128;Pupils
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Tan-awan;Finished;139;Pupils
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Napotiocan;Finished;332;Pupils
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Cabadiangan;Finished;656;Pupils
+10;ICRC;Livelihood;Food;Food Ration (200 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit) ;PH084800000;PH084808000;Cahayagan;Finished;638;Pupils
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;McArthur;Finished;56;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;Causwagan;Finished;95;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;Sto. Nino;Finished;19;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Cabadiangan;Finished;610;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Candawid;Finished;168;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Tan-awan;Finished;186;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Pangdan;Finished;99;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;Progress;Finished;133;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;Pio Del Pilar;Finished;117;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Napotiocan;Finished;360;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084802000;San Pedro;Finished;177;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Marubay;Finished;281;Households
+10;ICRC;Livelihood;Food;Food Ration (50 kls of Rice, 12 tins Sardines, 1 Vegetable Seed Kit);PH084800000;PH084808000;Cahayagn;Finished;403;Households
+7;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;PVC Type Roofing (8 pcs/HH);PH175200000;PH175206000;Agsalin;Finished;25;Households
+8;DN Steel/ Ultra Plastech;Shelter;Shelter Repair Assistance;PVC Type Roofing (8 pcs/HH);PH175200000;PH175206000;Maragooc;Finished;52;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;Sto. Nino;Finished;19;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;McArthur;Finished;56;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;Causwagan;Finished;95;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Pangdan;Finished;99;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;Pio Del Pilar;Finished;116;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;Progress;Finished;133;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Candawid;Finished;166;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084802000;San Pedro;Finished;176;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Tan-awan;Finished;186;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Marubay;Finished;279;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Napotiocan;Finished;360;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Cahayagan;Finished;390;Households
+10;ICRC;Livelihood;Cash Transfer Programming;Unconditional Cash Grant (Php 3,000/HH);PH084800000;PH084808000;Cabadiangan;Finished;608;Households
